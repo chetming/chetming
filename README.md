@@ -1,12 +1,13 @@
 
 # Files about me
-Job searching , to great boss : hire me now plz!
-- 👋 Hi, I’m @chetming
-- 👀 I’m interested in all thoery
-- 🌱 I’m currently learning how to survive in the society , 和 poor in my livehood.
-- 💞️ I’m working on project one,which is a mutli plantform app 和 make with current popular multi plantform tech,include material develop (jetbrains kmp,google flutter ),rust tauri,electron,cn uni-appx ,reactive native 和 so on, aiming to solve plan-workflow based on something like okr. can't wait to see it.Planed 4 it have been 2 年之前!
+Trying to find a better way to get money and live better. Currently.
 
-241015
+Although i want to publish a wonderful opensource project, considering my not gifted skills,maybe lattttttter .
+That is Project One for Plan-Purpose-Steps-Workflows-And..
+
+One more thing , working on a economy theory about right,not only politics.
+
+250116
 chetming
 <!---
 justdoins/justdoins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
