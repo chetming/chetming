@@ -1,9 +1,9 @@
 
 # Files about me
 
-simplify cost is the only goal!
+one project is back
 
-251020
+251111
 chetming
 <!---
 justdoins/justdoins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
